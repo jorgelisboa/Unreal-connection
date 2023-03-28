@@ -9,7 +9,7 @@
     flex-grow: 1;
     overflow-y: auto;
     border: 5px solid #0e1e3e;
-    padding: 32px;
+    padding: 8px;
 }
 .input-area {
     display: flex;
